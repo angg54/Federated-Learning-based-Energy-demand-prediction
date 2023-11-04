@@ -7,7 +7,7 @@ Dataset - [HUE: The Hourly Usage of Energy Dataset for Buildings in British Colu
 1. Original data set is in "original_data" folder.
 2. Use "preprocess_data.ipynb" to preprocess the data.
 3. Use "clustering.ipynb" to cluster the clients with preprocess data.
-4. Simply use the clusters in "federated_and_clustered_v0.1.ipynb".
+4. Simply use the "Analysis" to analyse the data now.
 5. Use "visualization.ipynb" to visualize results after training.
 
 
